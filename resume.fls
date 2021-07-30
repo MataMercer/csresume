@@ -629,6 +629,11 @@ INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufont
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5brands0.tfm
+INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree3.fd
+INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree3.fd
+INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree3.fd
+INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree3.fd
+INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free3solid.tfm
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -651,6 +656,7 @@ INPUT C:\Users\Mercer\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT resume.aux
 INPUT .\resume.out
 INPUT .\resume.out
+INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free3.enc
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
 INPUT C:\Users\Mercer\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
